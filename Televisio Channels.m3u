@@ -1,32 +1,18 @@
 #EXTM3U
 #EXTINF:-1,M1
-
-
-
 https://c401-node61-cdn.connectmedia.hu/110301/e307d2572456f75f945dc2018f7aa3e3/65c75ab3/index.m3u8
-
 #EXTINF:-1,M2
-
 https://c402-node62-cdn.connectmedia.hu/110302/da779073cd918483f2730871998b80fc/65c75cbb/index.m3u8
-
 #EXTINF:-1,TV2
 https://cdn.mediaklikk.org:443/tv2/0QjMxEjMxATM
 #EXTINF:-1,RTL KLUB
 https://cdn.mediaklikk.org:443/rtl/0QjMxEjMxATM
 #EXTINF:-1,DUNA
-
-
 https://c402-node61-cdn.connectmedia.hu/110303/3ffdc428c011c94d68ce3e144c60f166/65c75b32/index.m3u8
-
 #EXTINF:-1,DUNA WORLD / M4 Sport+
-
 https://c401-node61-cdn.connectmedia.hu/110306/80900b8248237ee9ce91cbf9c8143a80/65c75b3c/index.m3u8
-
 #EXTINF:-1,M5
-
-
 https://c202-node61-cdn.connectmedia.hu/110305/213ffbf2aa0ecec61ff08484fa403269/65c75b98/index.m3u8
-
 #EXTINF:-1,IZAURA
 https://cdn.mediaklikk.org:443/izaura/0QjMxEjMxATM
 #EXTINF:-1,SPEKTRUM HOME
