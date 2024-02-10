@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,M1
+
+
+
+https://c401-node61-cdn.connectmedia.hu/110301/e307d2572456f75f945dc2018f7aa3e3/65c75ab3/index.m3u8
+
+#EXTINF:-1,M2
+
+https://c402-node62-cdn.connectmedia.hu/110302/da779073cd918483f2730871998b80fc/65c75cbb/index.m3u8
+
+#EXTINF:-1,TV2
+https://cdn.mediaklikk.org:443/tv2/0QjMxEjMxATM
+#EXTINF:-1,RTL KLUB
+https://cdn.mediaklikk.org:443/rtl/0QjMxEjMxATM
+#EXTINF:-1,DUNA
+
+
+https://c402-node61-cdn.connectmedia.hu/110303/3ffdc428c011c94d68ce3e144c60f166/65c75b32/index.m3u8
+
+#EXTINF:-1,DUNA WORLD / M4 Sport+
+
+https://c401-node61-cdn.connectmedia.hu/110306/80900b8248237ee9ce91cbf9c8143a80/65c75b3c/index.m3u8
+
+#EXTINF:-1,M5
+
+
+https://c202-node61-cdn.connectmedia.hu/110305/213ffbf2aa0ecec61ff08484fa403269/65c75b98/index.m3u8
+
+#EXTINF:-1,IZAURA
+https://cdn.mediaklikk.org:443/izaura/0QjMxEjMxATM
+#EXTINF:-1,SPEKTRUM HOME
+https://cdn.mediaklikk.org:443/spektrumhome/0QjMxEjMxATM
+#EXTINF:-1,MAX4
+https://cdn.mediaklikk.org:443/max4/0QjMxEjMxATM
+#EXTINF:-1,TV21 UNGVAR
+rtmp://213.174.8.15:1935/live/danio
+#EXTINF:-1,1+1
+http://149.5.17.52:20041/play/a06e
+#EXTINF:-1,2+2
+http://149.5.17.34:20041/play/a06i
+#EXTINF:-1,ICTV 2
+http://lb.homeiptv.org/lb0/ICTV2/video.m3u8
+#EXTINF:-1,INTER
+http://149.5.17.34:20041/play/a05g
+#EXTINF:-1,ENTER FILM
+http://149.5.17.34:20041/play/a078
+#EXTINF:-1,COMEDY CENTRAL
+https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
+#EXTINF:-1,CINEMA 
+http://109.248.236.21:4433/udp/238.1.1.140:1234
+#EXTINF:-1,FISHING
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1,MI UKRAINA 
+https://ythls.armelin.one/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
