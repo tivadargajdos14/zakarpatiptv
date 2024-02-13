@@ -23,7 +23,7 @@ https://cdn.mediaklikk.org:443/max4/0QjMxETMyITM
 http://146.59.85.40:89/axnwhite/index.m3u8
 #EXTINF:-1,HIRTV
 https://player.mediaklikk.org:443/hirtv_delayed/0QjMxEzNxMTM.m3u8
-#EXTINF:-1,TV21 UNGVAR
+#EXTINF:-1 tvg-logo="https://s9.vcdn.biz/static/f/487166211/image.jpg",TV21 UNGVAR
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1,1+1
 http://149.5.17.52:20041/play/a06e
