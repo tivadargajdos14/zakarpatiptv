@@ -9,7 +9,7 @@ https://cdn.mediaklikk.org:443/tv2/0QjMxETMyITM
 https://cdn.mediaklikk.org:443/rtl/0QjMxETMyITM
 #EXTINF:-1,DUNA
 https://c202-node61-cdn.connectmedia.hu/110303/46c0357aab7a151b95d790701b0650e6/65ca7f11/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/bd/Duna_world_log%C3%B3.png/1200px-Duna_world_log%C3%B3.png",DUNA WORLD / M4 SPORT
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/345/5306345-middle.png",DUNA WORLD / M4 SPORT
 https://c201-node61-cdn.connectmedia.hu/110306/aa526c872ffac38ca72e6ee1f57716be/65ca7f24/index.m3u8
 #EXTINF:-1,M5
 https://c401-node62-cdn.connectmedia.hu/110305/d15f6331e4e053501aec50898ec04a92/65ca7f06/index.m3u8
