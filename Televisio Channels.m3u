@@ -3,7 +3,7 @@
 https://c201-node61-cdn.connectmedia.hu/110301/b569831106c2741fe80cb5eed3af0836/65ca7e7e/index.m3u8
 #EXTINF:-1,M2
 https://c201-node61-cdn.connectmedia.hu/110302/ca509c7d59ec5a6726beb56c94034de6/65ca7efb/index.m3u8
-#EXTINF:-1,TV2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
 https://cdn.mediaklikk.org:443/tv2/0QjMxETMyITM
 #EXTINF:-1,RTL KLUB
 https://cdn.mediaklikk.org:443/rtl/0QjMxETMyITM
@@ -11,25 +11,25 @@ https://cdn.mediaklikk.org:443/rtl/0QjMxETMyITM
 https://c202-node61-cdn.connectmedia.hu/110303/46c0357aab7a151b95d790701b0650e6/65ca7f11/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/345/5306345-middle.png",DUNA WORLD / M4 SPORT
 https://c201-node61-cdn.connectmedia.hu/110306/aa526c872ffac38ca72e6ee1f57716be/65ca7f24/index.m3u8
-#EXTINF:-1,M5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M5logo.png/200px-M5logo.png",M5
 https://c401-node62-cdn.connectmedia.hu/110305/d15f6331e4e053501aec50898ec04a92/65ca7f06/index.m3u8
-#EXTINF:-1,IZAURA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/2560px-Izaura_TV_logo.svg.png",IZAURA
 https://cdn.mediaklikk.org:443/izaura/0QjMxETMyITM
 #EXTINF:-1,SPEKTRUM HOME
 https://cdn.mediaklikk.org:443/spektrumhome/0QjMxETMyITM
-#EXTINF:-1,MAX4
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/max4_wide.png",MAX4
 https://cdn.mediaklikk.org:443/max4/0QjMxETMyITM
 #EXTINF:-1,AXN WHITE
 http://146.59.85.40:89/axnwhite/index.m3u8
-#EXTINF:-1,HIRTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HIRTV
 https://player.mediaklikk.org:443/hirtv_delayed/0QjMxEzNxMTM.m3u8
 #EXTINF:-1 tvg-logo="https://s9.vcdn.biz/static/f/487166211/image.jpg",TV21 UNGVAR
 rtmp://213.174.8.15:1935/live/danio
-#EXTINF:-1,1+1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/640px-1%2B1_logo.svg.png",1+1
 http://149.5.17.52:20041/play/a06e
-#EXTINF:-1,2+2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png",2+2
 http://149.5.17.34:20041/play/a06i
-#EXTINF:-1,ICTV 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/1200px-ICTV_2_%282022%29.svg.png",ICTV 2
 http://lb.homeiptv.org/lb0/ICTV2/video.m3u8
 #EXTINF:-1,INTER
 http://149.5.17.34:20041/play/a05g
