@@ -13,6 +13,8 @@ https://c402-node61-cdn.connectmedia.hu/110303/4fad4d67443a9efaaa1bd91853455d6c/
 https://c401-node61-cdn.connectmedia.hu/110306/166efa5b9d512435aae93c3dcbdb0951/65d0e0ec/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M5logo.png/200px-M5logo.png",M5
 https://c201-node61-cdn.connectmedia.hu/110305/567a05acaa8fad8e69179acfa85a6bc9/65d0e0d3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport
+https://c401-node61-cdn.connectmedia.hu/110304/45683a160620e84659a6c60ed1a66cae/65d0e0c8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/2560px-Izaura_TV_logo.svg.png",IZAURA
 https://cdn.mediaklikk.org:443/izaura/0QjMxEDNxYTM
 #EXTINF:-1 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum-home.png",SPEKTRUM HOME
