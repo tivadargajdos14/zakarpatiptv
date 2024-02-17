@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 url-tvg="https://musor.tv/mai/tvmusor/M1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
+#EXTINF:-1 url-tvg="https://musor.tv/mai/tvmusor/M1" tvg-id="1" tvg-rec="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
 https://c402-node61-cdn.connectmedia.hu/110301/141467509951c3c846a1c380804a730a/65ce3113/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2
 https://c402-node62-cdn.connectmedia.hu/110302/50121bf96b436469737050727bb41e6c/65ce3196/index.m3u8
