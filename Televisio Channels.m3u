@@ -43,3 +43,5 @@ https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
 http://109.248.236.21:4433/udp/238.1.1.140:1234
 #EXTINF:-1 tvg-logo="https://rybalka.net.ua/promo/main-logo.png",FISHING
 http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 barca
+https://livetv760.me/ua/eventinfo/192278629_selta_barselona/#webplayer_alieztv|218410|192278629|2336267|15|1|ua
