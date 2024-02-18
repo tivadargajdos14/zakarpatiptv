@@ -25,7 +25,7 @@ https://cdn.mediaklikk.org:443/max4/0QjMxEzNxgTM
 http://146.59.85.40:89/axnwhite/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HIRTV
 https://player.mediaklikk.org:443/hirtv_delayed/0QjMxEzNxgTM.m3u8
-#EXTINF:-1 tvg-logo="https://s3.ezgif.com/tmp/ezgif-3-ab3651f8ff.png",Mariapocs Kegyhely
+#EXTINF:-1 tvg-logo="https://s3.ezgif.com/tmp/ezgif-3-867c1ebf5a.png",Mariapocs Kegyhely
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708294647/ei/ly3SZbaWOKuWi9oPv_W0uAw/ip/92.205.15.128/id/zY95UkeXaPY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fyW79PpmQkK1CWHkybCFUKcyFEhYB-gmkWEXo3DYa8w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANBf6lDLZApCFJEuvPZGIO0hCuTtEKKzQgeVS8JRoWnuAiAMjEUGKPmwX68nm0ERKMo1JYxojA8bHcYW39sHjO81Xw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_21_%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4.jpg",TV21 UNGVAR
 rtmp://213.174.8.15:1935/live/danio
