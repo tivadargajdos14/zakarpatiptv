@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
-https://c401-node62-cdn.connectmedia.hu/110301/1ba9d35e852748d7413e67beb4295af1/65d0e0b4/index.m3u8
+https://c202-node61-cdn.connectmedia.hu/110301/4e128ea9329411e293ac8f22c0fe9319/65d356eb/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2
-https://c202-node61-cdn.connectmedia.hu/110302/d1c2a1c050296dd5de4e5f805fcdcfd8/65d0e0bc/index.m3u8
+https://c201-node62-cdn.connectmedia.hu/110302/c27d3b581edddc5908b95c60784cc96e/65d35702/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
 https://cdn.mediaklikk.org:443/tv2/0QjMxEzNxgTM
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL
 https://cdn.mediaklikk.org:443/rtl/0QjMxEzNxgTM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",DUNA
-https://c402-node61-cdn.connectmedia.hu/110303/4fad4d67443a9efaaa1bd91853455d6c/65d0e0da/index.m3u8
+https://c401-node61-cdn.connectmedia.hu/110303/58386cbeb621b2cb5968974ca1399e8d/65d35722/index.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/wj/283944/png/283944.png",DUNA WORLD / M4 SPORT
-https://c401-node61-cdn.connectmedia.hu/110306/166efa5b9d512435aae93c3dcbdb0951/65d0e0ec/index.m3u8
+https://c202-node62-cdn.connectmedia.hu/110306/31422d5645f1841b15642154d068820d/65d35734/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M5logo.png/200px-M5logo.png",M5
-https://c201-node61-cdn.connectmedia.hu/110305/567a05acaa8fad8e69179acfa85a6bc9/65d0e0d3/index.m3u8
+https://c201-node61-cdn.connectmedia.hu/110305/c053870a67b7e395a175fc8a23f6fc77/65d35716/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport
-https://c401-node61-cdn.connectmedia.hu/110304/45683a160620e84659a6c60ed1a66cae/65d0e0c8/index.m3u8
+https://c402-node62-cdn.connectmedia.hu/110304/bfe809d29821b2f7c41b54866cb4c1a2/65d3570d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/2560px-Izaura_TV_logo.svg.png",IZAURA
 https://cdn.mediaklikk.org:443/izaura/0QjMxEzNxgTM
 #EXTINF:-1 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum-home.png",SPEKTRUM HOME
@@ -24,9 +24,7 @@ https://cdn.mediaklikk.org:443/max4/0QjMxEzNxgTM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/AXN_WHITE.png/1200px-AXN_WHITE.png",AXN WHITE
 http://146.59.85.40:89/axnwhite/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HIRTV
-https://player.mediaklikk.org:443/hirtv_delayed/0QjMxEzNxgTM.m3u8
-#EXTINF:-1 tvg-logo="https://s3.ezgif.com/tmp/ezgif-3-ab3651f8ff.png",Mariapocs Kegyhely
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708294647/ei/ly3SZbaWOKuWi9oPv_W0uAw/ip/92.205.15.128/id/zY95UkeXaPY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fyW79PpmQkK1CWHkybCFUKcyFEhYB-gmkWEXo3DYa8w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANBf6lDLZApCFJEuvPZGIO0hCuTtEKKzQgeVS8JRoWnuAiAMjEUGKPmwX68nm0ERKMo1JYxojA8bHcYW39sHjO81Xw%3D%3D/file/index.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/0QjMxEDNxkTM.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_21_%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4.jpg",TV21 UNGVAR
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/640px-1%2B1_logo.svg.png",1+1
