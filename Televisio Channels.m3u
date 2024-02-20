@@ -25,7 +25,7 @@ https://cdn.mediaklikk.org:443/max4/0QjMxEDNxAjM
 http://146.59.85.40:89/axnwhite/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HIRTV
 https://player.mediaklikk.org:443/hirtv_delayed/0QjMxEDNxAjM.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",AMC
 http://46.149.191.217:9007/play/a01d
 #EXTINF:-1 tvg-logo="",
 
