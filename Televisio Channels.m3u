@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
-https://c402-node61-cdn.connectmedia.hu/110301/dc1b3e3e310b87d1670235e04721811c/65f09153/index.m3u8
+https://c402-node61-cdn.connectmedia.hu/110301/0af5bac2e823a8c9d95387a186dcc573/65f31643/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2
-https://c201-node61-cdn.connectmedia.hu/110302/76ec60339e8a73cde07a23aaa0b588f4/65f0919c/index.m3u8
+https://c401-node61-cdn.connectmedia.hu/110302/28d3699ba81966a1d2fd3f0980e18626/65f31673/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
-https://cdn.mediaklikk.org:443/tv2/0QjMxIDOxITM
+https://cdn.mediaklikk.org:443/tv2/0QjMxIjNxQTM
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL
-https://cdn.mediaklikk.org:443/rtl/0QjMxIDOxITM
+https://cdn.mediaklikk.org:443/rtl/0QjMxIjNxQTM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",DUNA
-https://c401-node62-cdn.connectmedia.hu/110303/ec780fd15903bd6bf9c223d9e2573612/65f091f3/index.m3u8
+https://c401-node62-cdn.connectmedia.hu/110303/11bfa2adf24b94258a2e8b11eccaf840/65f316e0/index.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/wj/283944/png/283944.png",DUNA WORLD / M4 SPORT
-https://c202-node62-cdn.connectmedia.hu/110306/8fc8129db486af2f76a303ad3d9799c4/65f09214/index.m3u8
+https://c401-node61-cdn.connectmedia.hu/110306/279ea03fbe1222fde507a1900f2dc40b/65f316fe/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M5logo.png/200px-M5logo.png",M5
-https://c202-node62-cdn.connectmedia.hu/110305/e43ac1f804a5e68519dcf578517af0aa/65f09239/index.m3u8
+https://c401-node61-cdn.connectmedia.hu/110305/0acd72e335a8bf479f3e32f9875731b9/65f3171e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport
-https://c401-node62-cdn.connectmedia.hu/110304/df751254d7a5784b03c5d47119e67df4/65f09259/index.m3u8
+https://c401-node61-cdn.connectmedia.hu/110304/5ed6ecf1f54d04ca8723fa59a5d2d3a9/65f3173b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/2560px-Izaura_TV_logo.svg.png",IZAURA
-https://cdn.mediaklikk.org:443/izaura/0QjMxIDOxITM
+https://cdn.mediaklikk.org:443/izaura/0QjMxIjNxQTM
 #EXTINF:-1 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum-home.png",SPEKTRUM HOME
-https://cdn.mediaklikk.org:443/spektrumhome/0QjMxIDOxITM
+https://cdn.mediaklikk.org:443/spektrumhome/0QjMxIjNxQTM
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/max4_wide.png",MAX4
-https://cdn.mediaklikk.org:443/max4/0QjMxIDOxITM
+https://cdn.mediaklikk.org:443/max4/0QjMxIjNxQTM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HIRTV
-https://player.mediaklikk.org:443/hirtv_delayed/0QjMxIDOxITM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/0QjMxIjNxQTM.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5927.png",APOSTOL TV
 https://live.apostoltv.hu:443/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_21_%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4.jpg",TV21 UNGVAR
