@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
-https://c402-node61-cdn.connectmedia.hu/110301/80f58c530859ce247df6c819d2ba9be6/65f5dae6/index.m3u8
+https://c401-node61-cdn.connectmedia.hu/110301/e0376bb0c998789ddd16f1e16cf3d481/65f8a3f6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2
-https://c202-node62-cdn.connectmedia.hu/110302/01ccca894836645ba73c7e7624307806/65f5daf9/index.m3u8
+https://c401-node62-cdn.connectmedia.hu/110302/b4616a6e91810dd3febd1e363769c2b3/65f8a3ff/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
 https://cdn.mediaklikk.org:443/tv2/0QjMxIzMxgTM
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL
 https://cdn.mediaklikk.org:443/rtl/0QjMxIzMxgTM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",DUNA
-https://c401-node61-cdn.connectmedia.hu/110303/19d92a0196b8bca775b0a5730323ab6e/65f5dbb9/index.m3u8
+https://c401-node62-cdn.connectmedia.hu/110303/615fbe920ac59cd21c90eb5c796cadf9/65f8a420/index.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/wj/283944/png/283944.png",DUNA WORLD / M4 SPORT
-https://c202-node61-cdn.connectmedia.hu/110306/4ac40575d519283917e2ea4d8d97aadb/65f5dbc1/index.m3u8
+https://c402-node62-cdn.connectmedia.hu/110306/a660b794d81d95be5507e457299b4c7e/65f8a428/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M5logo.png/200px-M5logo.png",M5
-https://c202-node61-cdn.connectmedia.hu/110305/ec3b6474e45b4286bd2813399ed69a4d/65f5db0d/index.m3u8
+https://c202-node62-cdn.connectmedia.hu/110305/60c00a73c15d7a1a2311dab556f4ad00/65f8a410/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport
-https://c201-node62-cdn.connectmedia.hu/110304/d009d5ea48155ae8f433dd6f0163ccdc/65f5db04/index.m3u8
+https://c401-node62-cdn.connectmedia.hu/110304/7f5ca2fd9b49fae95e7d0fb94ced19c2/65f8a408/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/2560px-Izaura_TV_logo.svg.png",IZAURA
 https://cdn.mediaklikk.org:443/izaura/0QjMxIzMxgTM
 #EXTINF:-1 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum-home.png",SPEKTRUM HOME
