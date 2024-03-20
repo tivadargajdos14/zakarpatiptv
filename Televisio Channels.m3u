@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
+#EXTINF:1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
 https://c401-node61-cdn.connectmedia.hu/110301/e0376bb0c998789ddd16f1e16cf3d481/65f8a3f6/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2
 https://c401-node62-cdn.connectmedia.hu/110302/b4616a6e91810dd3febd1e363769c2b3/65f8a3ff/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
+#EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
 https://cdn.mediaklikk.org:443/tv2/0QjMxIDNxAjM
-#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL
+#EXTINF:-1 tvg-id="4" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL
 https://cdn.mediaklikk.org:443/rtl/0QjMxIDNxAjM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",DUNA
+#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",DUNA
 https://c401-node62-cdn.connectmedia.hu/110303/615fbe920ac59cd21c90eb5c796cadf9/65f8a420/index.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/wj/283944/png/283944.png",DUNA WORLD / M4 SPORT
+#EXTINF:-1 tvg-id="6" tvg-logo="https://iconape.com/wp-content/files/wj/283944/png/283944.png",DUNA WORLD / M4 SPORT
 https://c402-node62-cdn.connectmedia.hu/110306/a660b794d81d95be5507e457299b4c7e/65f8a428/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M5logo.png/200px-M5logo.png",M5
+#EXTINF:-1 tvg-id="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M5logo.png/200px-M5logo.png",M5
 https://c202-node62-cdn.connectmedia.hu/110305/60c00a73c15d7a1a2311dab556f4ad00/65f8a410/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport
+#EXTINF:-1 tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport
 https://c401-node62-cdn.connectmedia.hu/110304/7f5ca2fd9b49fae95e7d0fb94ced19c2/65f8a408/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/2560px-Izaura_TV_logo.svg.png",IZAURA
+#EXTINF:-1 tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/2560px-Izaura_TV_logo.svg.png",IZAURA
 https://cdn.mediaklikk.org:443/izaura/0QjMxIDNxAjM
-#EXTINF:-1 tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum-home.png",SPEKTRUM HOME
+#EXTINF:-1 tvg-id="10" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum-home.png",SPEKTRUM HOME
 https://cdn.mediaklikk.org:443/spektrumhome/0QjMxIDNxAjM
-#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/max4_wide.png",MAX4
+#EXTINF:-1 tvg-id="11" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/max4_wide.png",MAX4
 https://cdn.mediaklikk.org:443/max4/0QjMxIDNxAjM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HIRTV
+#EXTINF:-1 tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HIRTV
 https://player.mediaklikk.org:443/hirtv_delayed/0QjMxIDNxAjM.m3u8
-#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/5927.png",APOSTOL TV
+#EXTINF:-1 tvg-id="13" tvg-logo="https://onlinestream.live/logos/5927.png",APOSTOL TV
 https://live.apostoltv.hu:443/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6606.png",DRAGONHALL TV
+#EXTINF:-1 tvg-id="14" tvg-logo="https://onlinestream.live/logos/6606.png",DRAGONHALL TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_21_%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4.jpg",TV21 UNGVAR
+#EXTINF:-1 tvg-id="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_21_%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4.jpg",TV21 UNGVAR
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/640px-1%2B1_logo.svg.png",1+1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1200px-2%2B2_logo_2017.svg.png",2+2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/1200px-ICTV_2_%282022%29.svg.png",ICTV 2
+#EXTINF:-1 tvg-id="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/1200px-ICTV_2_%282022%29.svg.png",ICTV 2
 http://194.33.181.28:9010/udp/238.255.51.42:1234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV-Channel_logo.svg/2560px-Inter_TV-Channel_logo.svg.png",INTER
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV-Channel_logo.svg/2560px-Inter_TV-Channel_logo.svg.png",INTER
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Enter-FilmUA_%282013%29.png",ENTER FILM
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/611px-Comedy_Central_2011_Logo.svg.png",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/611px-Comedy_Central_2011_Logo.svg.png",COMEDY CENTRAL
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/cinema-tv-logo.png",CINEMA
+#EXTINF:-1 tvg-id="18" tvg-logo="https://iconape.com/wp-content/png_logo_vector/cinema-tv-logo.png",CINEMA
 http://109.248.236.21:4433/udp/238.1.1.140:1234
-#EXTINF:-1 tvg-logo="https://rybalka.net.ua/promo/main-logo.png",FISHING
+#EXTINF:-1 tvg-id="19" tvg-logo="https://rybalka.net.ua/promo/main-logo.png",FISHING
 http://iptv.prosto.tv:7000/ch344/video.m3u8
