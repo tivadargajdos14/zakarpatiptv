@@ -1,32 +1,86 @@
 #EXTM3U
 #EXTINF:1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1
-https://c402-node61-cdn.connectmedia.hu/110301/03e89ffdee2ab1176f0cfba4c0b178dc/65ff3428/index.m3u8
+https://c202-node61-cdn.connectmedia.hu/110301/caa5060c3efc54418f816b6e55b8231f/66046788/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2
-https://c201-node62-cdn.connectmedia.hu/110302/676a4d7e19c1a78f7c3cee10efee5f03/65ff3432/index.m3u8
+https://https:c401-node62-cdn.connectmedia.hu/110102/7a580b3fa76b77002bd65eef8a9de3c7/6604692a/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
-https://cdn.mediaklikk.org:443/tv2/0QjMxIDMyMjM
+https://cdn.mediaklikk.org:443/tv2/0QjMxITOxcjM
 #EXTINF:-1 tvg-id="4" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL
-https://cdn.mediaklikk.org:443/rtl/0QjMxIDMyMjM
+https://cdn.mediaklikk.org:443/rtl/0QjMxITOxcjM
 #EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",DUNA
-https://c401-node61-cdn.connectmedia.hu/110303/5d8e627f45630b7554eff8f01a8d9eb5/65ff344f/index.m3u8
+https://c402-node62-cdn.connectmedia.hu/110303/becf9771bf52d50f2e2277a2cc6c2baa/660469af/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://iconape.com/wp-content/files/wj/283944/png/283944.png",DUNA WORLD / M4 SPORT
-https://c202-node62-cdn.connectmedia.hu/110306/cca99651e6f9d50e17d2393a88e0c50e/65ff3458/index.m3u8
+https://c201-node62-cdn.connectmedia.hu/110306/2ac1f1bb38f42caf784eb0102fd16dd5/66046a09/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M5logo.png/200px-M5logo.png",M5
-https://c401-node61-cdn.connectmedia.hu/110305/00b98c2b32d14156183d5f51b5be23b7/65ff3447/index.m3u8
+https://c202-node61-cdn.connectmedia.hu/110305/bda5707ed3bba514e2b78d199509f82b/66046a46/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/M4_Sport%2B_logo.png",M4 Sport
-https://c202-node62-cdn.connectmedia.hu/110304/02350f0af44fa4565647890d9ea2e7ea/65ff343f/index.m3u8
+https://c401-node62-cdn.connectmedia.hu/110304/e3b9d3a2a8bb9a4944fed50195bda5ab/66046a90/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/2560px-Izaura_TV_logo.svg.png",IZAURA
-https://cdn.mediaklikk.org:443/izaura/0QjMxIDMyMjM
+https://cdn.mediaklikk.org:443/izaura/0QjMxITOxcjM
 #EXTINF:-1 tvg-id="10" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum-home.png",SPEKTRUM HOME
-https://cdn.mediaklikk.org:443/spektrumhome/0QjMxIDMyMjM
+https://cdn.mediaklikk.org:443/spektrumhome/0QjMxITOxcjM
 #EXTINF:-1 tvg-id="11" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/max4_wide.png",MAX4
-https://cdn.mediaklikk.org:443/max4/0QjMxIDMyMjM
+https://cdn.mediaklikk.org:443/max4/0QjMxITOxcjM
 #EXTINF:-1 tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HIRTV
-https://player.mediaklikk.org:443/hirtv_delayed/0QjMxIDMyMjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/0QjMxITOxcjM.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://onlinestream.live/logos/5927.png",APOSTOL TV
 https://live.apostoltv.hu:443/live/playlist.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="https://onlinestream.live/logos/6606.png",DRAGONHALL TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/852/748/png-clipart-amc-logo-television-show-graphic-design-amc-television-text.png",AMC
+http://163.172.210.95:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1280px-Mozi%2B_logo.svg.png",MOZI+
+http://163.172.210.95:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png",FILM+
+http://163.172.210.95:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Filmmania-tp.png",FILM MANIA
+http://163.172.210.95:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png",FILM CAFE
+http://163.172.210.95:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cool_TV_2010.svg/1200px-Cool_TV_2010.svg.png",COOL
+http://163.172.210.95:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sorozat_plusz_2018.png",SOROZAT+
+http://163.172.210.95:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/RTL_Gold_2022.png",RTL GOLD
+http://163.172.210.95:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rtl_ketto_logo_2022.png",RTL KETTO
+http://163.172.210.95:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rtl_harom_logo_2022.png",RTL HAROM
+http://163.172.210.95:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/spiler1_2023_wide.png",SPILER 1
+http://163.172.210.95:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",SPILER 2
+http://163.172.210.95:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Film4_logo.png",FILM4
+http://163.172.210.95:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/prime_wide.png",PRIME
+http://163.172.210.95:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",SUPER TV2
+http://163.172.210.95:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png",SPORT1
+http://163.172.210.95:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.frocus.net/images/logotv/original/sport-2.png",SPORT2
+http://163.172.210.95:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO
+http://163.172.210.95:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/1200px-HBO_2_%282014%29.svg.png",HBO2
+http://163.172.210.95:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png",HBO3
+http://163.172.210.95:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/viasat3_wide.png",VIASAT3
+http://163.172.210.95:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Viasat6-tp.png/800px-Viasat6-tp.png",VIASAT6
+http://163.172.210.95:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/viasat_history_wide.png",VIASAT HISTORY
+http://163.172.210.95:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viasat_Nature_Logo.jpg/1200px-Viasat_Nature_Logo.jpg",VIASAT NATURE
+http://163.172.210.95:8000/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/536px-Viasat_Explore_Logo.jpg",VIASAT EXPLORE
+http://163.172.210.95:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/2560px-Cinemax_2016.svg.png",CINEMAX
+http://163.172.210.95:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png",CINEMAX2
+http://163.172.210.95:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_21_%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4.jpg",TV21 UNGVAR
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/640px-1%2B1_logo.svg.png",1+1
