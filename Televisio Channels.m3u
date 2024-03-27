@@ -27,8 +27,10 @@ https://player.mediaklikk.org:443/hirtv_delayed/0QjMxITOxcjM.m3u8
 https://live.apostoltv.hu:443/live/playlist.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="https://onlinestream.live/logos/6606.png",DRAGONHALL TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/852/748/png-clipart-amc-logo-television-show-graphic-design-amc-television-text.png",AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
 http://163.172.210.95:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6652.png",AMC
+http://163.172.210.95:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1280px-Mozi%2B_logo.svg.png",MOZI+
 http://163.172.210.95:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png",FILM+
