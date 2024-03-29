@@ -33,6 +33,8 @@ http://163.172.210.95:8000/play/a037/index.m3u8
 http://163.172.210.95:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1280px-Mozi%2B_logo.svg.png",MOZI+
 http://163.172.210.95:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6720.png",MOZIVERZUM
+http://163.172.210.95:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png",FILM+
 http://163.172.210.95:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Filmmania-tp.png",FILM MANIA
@@ -83,6 +85,19 @@ http://163.172.210.95:8000/play/a03k/index.m3u8
 http://163.172.210.95:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png",CINEMAX2
 http://163.172.210.95:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-id="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_21_%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4.jpg",TV21 UNGVAR
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/640px-1%2B1_logo.svg.png",1+1
