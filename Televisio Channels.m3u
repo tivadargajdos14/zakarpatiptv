@@ -28,69 +28,69 @@ https://live.apostoltv.hu:443/live/playlist.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="https://onlinestream.live/logos/6606.png",DRAGONHALL TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
-http://163.172.210.95:8000/play/a037/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6652.png",AMC
-http://163.172.210.95:8000/play/a00o/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1280px-Mozi%2B_logo.svg.png",MOZI+
-http://163.172.210.95:8000/play/a00b/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6720.png",MOZIVERZUM
-http://163.172.210.95:8000/play/a016/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png",FILM+
-http://163.172.210.95:8000/play/a00x/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Filmmania-tp.png",FILM MANIA
-http://163.172.210.95:8000/play/a01w/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png",FILM CAFE
-http://163.172.210.95:8000/play/a00w/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cool_TV_2010.svg/1200px-Cool_TV_2010.svg.png",COOL
-http://163.172.210.95:8000/play/a00s/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sorozat_plusz_2018.png",SOROZAT+
-http://163.172.210.95:8000/play/a03f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/RTL_Gold_2022.png",RTL GOLD
-http://163.172.210.95:8000/play/a00f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rtl_ketto_logo_2022.png",RTL KETTO
-http://163.172.210.95:8000/play/a02j/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rtl_harom_logo_2022.png",RTL HAROM
-http://163.172.210.95:8000/play/a00g/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/spiler1_2023_wide.png",SPILER 1
-http://163.172.210.95:8000/play/a01b/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",SPILER 2
-http://163.172.210.95:8000/play/a01c/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Film4_logo.png",FILM4
-http://163.172.210.95:8000/play/a01q/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/prime_wide.png",PRIME
-http://163.172.210.95:8000/play/a00e/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",SUPER TV2
-http://163.172.210.95:8000/play/a00k/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/7060.png",TV2 COMEDY
-http://163.172.210.95:8000/play/a03j/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png",SPORT1
-http://163.172.210.95:8000/play/a017/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.frocus.net/images/logotv/original/sport-2.png",SPORT2
-http://163.172.210.95:8000/play/a018/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO
-http://163.172.210.95:8000/play/a00z/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/1200px-HBO_2_%282014%29.svg.png",HBO2
-http://163.172.210.95:8000/play/a03s/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/HBO_3_logo.png",HBO3
-http://163.172.210.95:8000/play/a04w/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/viasat3_wide.png",VIASAT3
-http://163.172.210.95:8000/play/a01s/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Viasat6-tp.png/800px-Viasat6-tp.png",VIASAT6
-http://163.172.210.95:8000/play/a01t/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/viasat_history_wide.png",VIASAT HISTORY
-http://163.172.210.95:8000/play/a029/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viasat_Nature_Logo.jpg/1200px-Viasat_Nature_Logo.jpg",VIASAT NATURE
-http://163.172.210.95:8000/play/a041/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_Explore_Logo.jpg/536px-Viasat_Explore_Logo.jpg",VIASAT EXPLORE
-http://163.172.210.95:8000/play/a03k/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/2560px-Cinemax_2016.svg.png",CINEMAX
-http://163.172.210.95:8000/play/a01n/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png",CINEMAX2
-http://163.172.210.95:8000/play/a02q/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6701.png",JOCKY TV
-http://163.172.210.95:8000/play/a012/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/8271.png",MATCH 4
-http://163.172.210.95:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
