@@ -5,7 +5,7 @@ http://magyar-iptv.club:8080/live/Géza király/20070604/62.m3u8
 http://magyar-iptv.club:8080/live/Géza király/20070604/64.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
 http://magyar-iptv.club:8080/live/Géza király/20070604/112.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL
+#EXTINF:-1 tvg-id="4" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL Klub HD
 http://magyar-iptv.club:8080/live/Géza király/20070604/89.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",DUNA
 http://magyar-iptv.club:8080/live/Géza király/20070604/347.m3u8
@@ -19,8 +19,6 @@ http://magyar-iptv.club:8080/live/Géza király/20070604/366.m3u8
 http://magyar-iptv.club:8080/live/Géza király/20070604/58.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/spektrum-home.png",SPEKTRUM HOME
 http://magyar-iptv.club:8080/live/Géza király/20070604/368.m3u8
-#EXTINF:-1 tvg-id="11" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/max4_wide.png",MAX4
-http://magyar-iptv.club:8080/live/Géza király/20070604/117516.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/H%C3%ADr_TV.png/640px-H%C3%ADr_TV.png",HIRTV
 http://magyar-iptv.club:8080/live/Géza király/20070604/53.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://onlinestream.live/logos/5927.png",APOSTOL TV
@@ -31,33 +29,33 @@ http://magyar-iptv.club:8080/live/Géza király/20070604/6.m3u8
 http://magyar-iptv.club:8080/live/Géza király/20070604/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1280px-Mozi%2B_logo.svg.png",MOZI+
 http://magyar-iptv.club:8080/live/Géza király/20070604/72.m3u8
-#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6720.png",MOZIVERZUM
+#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6720.png",Moziverzum HD
 http://magyar-iptv.club:8080/live/Géza király/20070604/74.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png",FILM+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/1200px-FILM%2B_logo_2014_Hungary.png",Film+ HD
 http://magyar-iptv.club:8080/live/Géza király/20070604/38.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Filmmania-tp.png",FILM MANIA
 http://magyar-iptv.club:8080/live/Géza király/20070604/37.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png",FILM CAFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png",FilmCafe
 http://magyar-iptv.club:8080/live/Géza király/20070604/36.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cool_TV_2010.svg/1200px-Cool_TV_2010.svg.png",COOL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cool_TV_2010.svg/1200px-Cool_TV_2010.svg.png",Cool HD
 http://magyar-iptv.club:8080/live/Géza király/20070604/18.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sorozat_plusz_2018.png",SOROZAT+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sorozat_plusz_2018.png",Sorozat +
 http://magyar-iptv.club:8080/live/Géza király/20070604/98.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/RTL_Gold_2022.png",RTL GOLD
 http://magyar-iptv.club:8080/live/Géza király/20070604/88.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rtl_ketto_logo_2022.png",RTL KETTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rtl_ketto_logo_2022.png",RTL 2 HD
 http://magyar-iptv.club:8080/live/Géza király/20070604/93.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rtl_harom_logo_2022.png",RTL HAROM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rtl_harom_logo_2022.png",RTL+
 http://magyar-iptv.club:8080/live/Géza király/20070604/92.m3u8
-#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/spiler1_2023_wide.png",SPILER 1
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/spiler1_2023_wide.png",Spíler1 HD
 http://magyar-iptv.club:8080/live/Géza király/20070604/100.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",SPILER 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Spiler2_2023_wide.png",Spíler2 HD
 http://magyar-iptv.club:8080/live/Géza király/20070604/101.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Film4_logo.png",FILM4
 http://magyar-iptv.club:8080/live/Géza király/20070604/9214.m3u8
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/prime_wide.png",PRIME
 http://magyar-iptv.club:8080/live/Géza király/20070604/86.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",SUPER TV2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png",Super TV2 HD
 http://magyar-iptv.club:8080/live/Géza király/20070604/107.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/7060.png",TV2 COMEDY
 http://magyar-iptv.club:8080/live/Géza király/20070604/113.m3u8
@@ -65,7 +63,7 @@ http://magyar-iptv.club:8080/live/Géza király/20070604/113.m3u8
 http://magyar-iptv.club:8080/live/Géza király/20070604/103.m3u8
 #EXTINF:-1 tvg-logo="https://www.frocus.net/images/logotv/original/sport-2.png",SPORT2
 http://magyar-iptv.club:8080/live/Géza király/20070604/104.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO HD
 http://magyar-iptv.club:8080/live/Géza király/20070604/48.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/1200px-HBO_2_%282014%29.svg.png",HBO2
 http://magyar-iptv.club:8080/live/Géza király/20070604/51.m3u8
@@ -83,11 +81,11 @@ http://magyar-iptv.club:8080/live/Géza király/20070604/122.m3u8
 http://magyar-iptv.club:8080/live/Géza király/20070604/120.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/2560px-Cinemax_2016.svg.png",CINEMAX
 http://magyar-iptv.club:8080/live/Géza király/20070604/14.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png",CINEMAX2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png",Cinemax 2
 http://magyar-iptv.club:8080/live/Géza király/20070604/15.m3u8
 #EXTINF:-1 tvg-logo="https://onlinestream.live/logos/6701.png",JOCKY TV
 http://magyar-iptv.club:8080/live/Géza király/20070604/60.m3u8
-#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/8271.png",MATCH 4
+#EXTINF:-1 tvg-logo="https://onlinestream.live/logos/8271.png",MATCH4
 http://magyar-iptv.club:8080/live/Géza király/20070604/378.m3u8
 #EXTINF:-1 tvg-logo="",
 
