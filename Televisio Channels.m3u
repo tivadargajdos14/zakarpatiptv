@@ -105,7 +105,3 @@ http://mi-res-s1.stream4k.ru:2095/channel_465/index.m3u8
 http://mi-res-s1.stream4k.ru:2095/channel_467/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/611px-Comedy_Central_2011_Logo.svg.png",COMEDY CENTRAL
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="https://iconape.com/wp-content/png_logo_vector/cinema-tv-logo.png",CINEMA
-http://109.248.236.21:4433/udp/238.1.1.140:1234
-#EXTINF:-1 tvg-id="19" tvg-logo="https://rybalka.net.ua/promo/main-logo.png",FISHING
-http://iptv.prosto.tv:7000/ch344/video.m3u8
