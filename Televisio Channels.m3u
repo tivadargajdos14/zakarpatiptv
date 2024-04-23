@@ -89,8 +89,8 @@ http://magyar-iptv.club:8080/live/Géza király/20070604/60.m3u8
 http://magyar-iptv.club:8080/live/Géza király/20070604/378.m3u8
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",uzhkba
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713869906/ei/8j8nZrPhMtXG6dsP2YOJ4AU/ip/92.205.15.128/id/yUUuN0XnfnI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9xXLNPgcivlD7nUoooZGtKucEZ01J7UFpxJl-DjeSy2u9h_zDRb0XgI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKo17oM588rw7OW3WOQJ1rU_eCYsB9bqBDZhYtbbefJLAiEAyPQ6CmWXgUMbwplNTiZKTaR78Zy0yCpufy3Xk7JNJBo%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
