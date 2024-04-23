@@ -99,10 +99,10 @@ http://mi-res-s1.stream4k.ru:2095/channel_446/index.m3u8
 http://mi-res-s1.stream4k.ru:2095/channel_475/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/1200px-ICTV_2_%282022%29.svg.png",ICTV 2
 http://194.33.181.28:9010/udp/238.255.51.42:1234
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV-Channel_logo.svg/2560px-Inter_TV-Channel_logo.svg.png",INTER
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inter_TV-Channel_logo.svg/2560px-Inter_TV-Channel_logo.svg.png",INTER +
+http://mi-res-s1.stream4k.ru:2095/channel_465/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Enter-FilmUA_%282013%29.png",ENTER FILM
-
+http://mi-res-s1.stream4k.ru:2095/channel_467/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/611px-Comedy_Central_2011_Logo.svg.png",COMEDY CENTRAL
 https://bkm.beetv.kz/btv/live/hls/000000452.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://iconape.com/wp-content/png_logo_vector/cinema-tv-logo.png",CINEMA
