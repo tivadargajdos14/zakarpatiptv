@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",M1 HD
-http://magyar-iptv.club:8080/live/UR7mWrjsHa/CTNxB4wQhf/62.m3u8
+http://magyar-iptv.club:8080/live/WD6ytPVX3F/A2qGHDGgh9/62.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/b/b5/M2_gyerekcsatorna_log%C3%B3ja.png/1200px-M2_gyerekcsatorna_log%C3%B3ja.png",M2 / Petőfi HD
-http://magyar-iptv.club:8080/live/UR7mWrjsHa/CTNxB4wQhf/64.m3u8
+http://magyar-iptv.club:8080/live/WD6ytPVX3F/A2qGHDGgh9/64.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/1200px-TV2_2008.svg.png",TV2
-http://magyar-iptv.club:8080/live/UR7mWrjsHa/CTNxB4wQhf/112.m3u8
+http://magyar-iptv.club:8080/live/WD6ytPVX3F/A2qGHDGgh9/112.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/rtl_magyarorszag_2022_wide.png",RTL Klub HD
 http://magyar-iptv.club:8080/live/UR7mWrjsHa/CTNxB4wQhf/89.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/d/d3/Dunatv_logo.png/1200px-Dunatv_logo.png",Duna HD
